@@ -1,4 +1,4 @@
-# BhushGPT
+# NanoGPT
 I built my own large language model, from scratch. Helps us to understand the building , Working and implementation of the Large launguage model.
 
 -----**DAY 01** 5/15/2024-------
@@ -20,7 +20,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 4. Configuring jupyter notebook and its kernel to the cuda kernal created 
 ```bash
-python -m ipykernel install --user --name=cuda --display-name "bhush-gpt" 
+python -m ipykernel install --user --name=cuda --display-name "Nano-gpt" 
 ```
 Launching jupyter notebook
 ```bash
